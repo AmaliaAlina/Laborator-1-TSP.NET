@@ -1,0 +1,12 @@
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab1_TSP_NET\bin\Debug\lab1_TSP_NET.exe.config
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab1_TSP_NET\bin\Debug\lab1_TSP_NET.exe
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab1_TSP_NET\bin\Debug\lab1_TSP_NET.pdb
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab1_TSP_NET\obj\Debug\lab1_TSP_NET.csprojAssemblyReference.cache
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab1_TSP_NET\obj\Debug\lab1_TSP_NET.exe
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab1_TSP_NET\obj\Debug\lab1_TSP_NET.pdb
+C:\Users\Amalia\Desktop\New folder\lab1_TSP_NET\bin\Debug\lab1_TSP_NET.exe.config
+C:\Users\Amalia\Desktop\New folder\lab1_TSP_NET\bin\Debug\lab1_TSP_NET.exe
+C:\Users\Amalia\Desktop\New folder\lab1_TSP_NET\bin\Debug\lab1_TSP_NET.pdb
+C:\Users\Amalia\Desktop\New folder\lab1_TSP_NET\obj\Debug\lab1_TSP_NET.csprojAssemblyReference.cache
+C:\Users\Amalia\Desktop\New folder\lab1_TSP_NET\obj\Debug\lab1_TSP_NET.exe
+C:\Users\Amalia\Desktop\New folder\lab1_TSP_NET\obj\Debug\lab1_TSP_NET.pdb
